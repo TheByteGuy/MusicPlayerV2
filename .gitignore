@@ -1,0 +1,17 @@
+/.gradle
+/bin
+/build/classes
+/build/devlibs
+/build/loom-cache
+/src
+/build/tmp
+build/export_classpath.json
+build.gradle.kts
+gradle.properties
+gradlew
+gradlew.bat
+settings.gradle.kts
+java_pid39176.hprof
+/gradle/wrapper
+/build/resources
+/build/reports
